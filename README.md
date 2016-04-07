@@ -1,6 +1,6 @@
 # The Craic
 
-In this day and age we barely interact with our fellow human beings, office communication in particular fetishizes productivity over everything else.
+In this day and age we barely interact with our fellow human beings, office communication in particular fetishizes productivity and efficiency at the expense everything else, but we can do more.
 
 We have minimal contact time with our fellow workers -  using Slack to talk to co-workers and stand up to rapidly communicate our work objectives, but what if we could do more, what if we never had to lay our eyes upon the miserable sacks of meat we call our co-workers ever again?
 
