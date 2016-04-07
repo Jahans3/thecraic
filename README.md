@@ -20,4 +20,6 @@ Will utilise multiple channels like Slack does, so you can control who can see y
 
 You can view a channel's feed, an individual's feed or even create your own custom feed
 
-Uses React, Socket.io and Express, following the Flux architecture
+### Tech
+
+Uses React, Socket.io and Express, following the Flux architecture. Skeleton app courtesy of u/kirasoft 

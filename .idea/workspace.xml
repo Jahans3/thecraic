@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.072289154">
-                <caret line="2" column="193" selection-start-line="2" selection-start-column="193" selection-end-line="2" selection-end-column="193" />
+              <first_editor vertical-scroll-proportion="0.8674699">
+                <caret line="24" column="104" selection-start-line="24" selection-start-column="104" selection-end-line="24" selection-end-column="104" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -268,12 +268,12 @@
       <created>1460030279987</created>
       <option name="number" value="Default" />
       <updated>1460030279987</updated>
-      <workItem from="1460030284117" duration="1382000" />
+      <workItem from="1460030284117" duration="1523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1382000" />
+    <option name="totallyTimeSpent" value="1523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -343,8 +343,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.072289154">
-            <caret line="2" column="193" selection-start-line="2" selection-start-column="193" selection-end-line="2" selection-end-column="193" />
+          <first_editor vertical-scroll-proportion="0.8674699">
+            <caret line="24" column="104" selection-start-line="24" selection-start-column="104" selection-end-line="24" selection-end-column="104" />
             <folding />
           </first_editor>
           <second_editor />
