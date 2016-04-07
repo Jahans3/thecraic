@@ -1,4 +1,4 @@
-## The Craic
+# The Craic
 
 In this day and age we barely interact with our fellow human beings, office communication in particular fetishizes productivity over everything else.
 
@@ -6,7 +6,7 @@ We have minimal contact time with our fellow workers -  using Slack to talk to c
 
 Introducing The Craic™, a Twitter-esque office communication app that allows workers to stay on top of what their coworkers are doing from the comfort of your own desk. Never use those loathesome, inefficient legs of yours ever again!
 
-# What's the crack?
+## What's the crack?
 
 Use with Slack and Screenhero and you'll never have to go within 15 feet of your co-workers ever again! Hurrah!
 
